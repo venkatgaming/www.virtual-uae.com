@@ -1,0 +1,145 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon.html");
+  src: url("Flaticond41dd41d.html?#iefix") format("embedded-opentype"),
+       url("Flaticon.woff2") format("woff2"),
+       url("Flaticon.woff") format("woff"),
+       url("Flaticon.ttf") format("truetype"),
+       url("Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"], [class*=" flaticon-"] {
+ font-family: "Flaticon";
+    src: url("Flaticon.svg#Flaticon") format("svg");
+    font-style: normal;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fimanager:before {
+      display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    display: block;
+}
+
+.flaticon-001-megaphone:before { content: "\f100"; }
+.flaticon-002-search-engine-optimization:before { content: "\f101"; }
+.flaticon-003-network:before { content: "\f102"; }
+.flaticon-004-target:before { content: "\f103"; }
+.flaticon-005-ranking:before { content: "\f104"; }
+.flaticon-006-digital-campaign:before { content: "\f105"; }
+.flaticon-007-website:before { content: "\f106"; }
+.flaticon-008-target-audience:before { content: "\f107"; }
+.flaticon-009-email-marketing:before { content: "\f108"; }
+.flaticon-010-seo-tag:before { content: "\f109"; }
+.flaticon-011-eye:before { content: "\f10a"; }
+.flaticon-012-user-evaluation:before { content: "\f10b"; }
+.flaticon-013-white-hat:before { content: "\f10c"; }
+.flaticon-014-mobile-marketing:before { content: "\f10d"; }
+.flaticon-015-growth:before { content: "\f10e"; }
+.flaticon-016-website:before { content: "\f10f"; }
+.flaticon-017-organic-search:before { content: "\f110"; }
+.flaticon-018-milestone:before { content: "\f111"; }
+.flaticon-019-keyword:before { content: "\f112"; }
+.flaticon-020-data-analytics:before { content: "\f113"; }
+.flaticon-021-ranking:before { content: "\f114"; }
+.flaticon-022-time-is-money:before { content: "\f115"; }
+.flaticon-023-testimonial:before { content: "\f116"; }
+.flaticon-024-attract:before { content: "\f117"; }
+.flaticon-025-digital-marketing:before { content: "\f118"; }
+.flaticon-026-web-rating:before { content: "\f119"; }
+.flaticon-027-data-report:before { content: "\f11a"; }
+.flaticon-028-web-development:before { content: "\f11b"; }
+.flaticon-029-filtering:before { content: "\f11c"; }
+.flaticon-030-email:before { content: "\f11d"; }
+.flaticon-031-research:before { content: "\f11e"; }
+.flaticon-032-advertising:before { content: "\f11f"; }
+.flaticon-033-billboard:before { content: "\f120"; }
+.flaticon-034-web-optimization:before { content: "\f121"; }
+.flaticon-035-search-results:before { content: "\f122"; }
+.flaticon-036-online-shopping:before { content: "\f123"; }
+.flaticon-037-online-advertising:before { content: "\f124"; }
+.flaticon-038-brochure:before { content: "\f125"; }
+.flaticon-039-cost-per-click:before { content: "\f126"; }
+.flaticon-040-ecommerce:before { content: "\f127"; }
+.flaticon-041-strategy:before { content: "\f128"; }
+.flaticon-042-ab-testing:before { content: "\f129"; }
+.flaticon-043-copywriting:before { content: "\f12a"; }
+.flaticon-044-email-marketing:before { content: "\f12b"; }
+.flaticon-045-site-map:before { content: "\f12c"; }
+.flaticon-046-good-feedback:before { content: "\f12d"; }
+.flaticon-047-marketing:before { content: "\f12e"; }
+.flaticon-048-user:before { content: "\f12f"; }
+.flaticon-049-data-analytics:before { content: "\f130"; }
+.flaticon-050-sms:before { content: "\f131"; }
+.flaticon-051-business:before { content: "\f132"; }
+.flaticon-052-location:before { content: "\f133"; }
+.flaticon-053-video-marketing:before { content: "\f134"; }
+.flaticon-054-marketing:before { content: "\f135"; }
+.flaticon-055-online-shopping:before { content: "\f136"; }
+.flaticon-056-share-video:before { content: "\f137"; }
+.flaticon-057-dslr-camera:before { content: "\f138"; }
+.flaticon-058-radio:before { content: "\f139"; }
+.flaticon-059-marketing:before { content: "\f13a"; }
+.flaticon-060-bounce-rate:before { content: "\f13b"; }
+.flaticon-061-data-visualization:before { content: "\f13c"; }
+.flaticon-062-television:before { content: "\f13d"; }
+.flaticon-063-creativity:before { content: "\f13e"; }
+.flaticon-064-questionnaire:before { content: "\f13f"; }
+.flaticon-065-blog:before { content: "\f140"; }
+.flaticon-066-conversion:before { content: "\f141"; }
+.flaticon-067-profit-report:before { content: "\f142"; }
+.flaticon-068-milestones:before { content: "\f143"; }
+.flaticon-069-shopping-basket:before { content: "\f144"; }
+.flaticon-070-add-to-cart:before { content: "\f145"; }
+.flaticon-071-ad-blocker:before { content: "\f146"; }
+.flaticon-072-automation:before { content: "\f147"; }
+.flaticon-073-push-button:before { content: "\f148"; }
+.flaticon-074-sharing-content:before { content: "\f149"; }
+.flaticon-075-mobile-marketing:before { content: "\f14a"; }
+.flaticon-076-web-rating:before { content: "\f14b"; }
+.flaticon-077-email-marketing:before { content: "\f14c"; }
+.flaticon-078-customer-review:before { content: "\f14d"; }
+.flaticon-079-content-copy:before { content: "\f14e"; }
+.flaticon-080-video-message:before { content: "\f14f"; }
+.flaticon-081-podcast:before { content: "\f150"; }
+.flaticon-082-cookies:before { content: "\f151"; }
+.flaticon-083-contact-book:before { content: "\f152"; }
+.flaticon-084-data:before { content: "\f153"; }
+.flaticon-085-digital-key:before { content: "\f154"; }
+.flaticon-086-cost-per-mille:before { content: "\f155"; }
+.flaticon-087-cash-flow:before { content: "\f156"; }
+.flaticon-088-website:before { content: "\f157"; }
+.flaticon-089-search-results:before { content: "\f158"; }
+.flaticon-090-digital-marketing:before { content: "\f159"; }
+.flaticon-091-live-streaming:before { content: "\f15a"; }
+.flaticon-092-premium-quality:before { content: "\f15b"; }
+.flaticon-093-medal:before { content: "\f15c"; }
+.flaticon-094-call-to-action:before { content: "\f15d"; }
+.flaticon-095-digital-strategy:before { content: "\f15e"; }
+.flaticon-096-inbound:before { content: "\f15f"; }
+.flaticon-097-video-marketing:before { content: "\f160"; }
+.flaticon-098-returning-visitor:before { content: "\f161"; }
+.flaticon-099-content-marketing:before { content: "\f162"; }
+.flaticon-100-storytelling:before { content: "\f163"; }
